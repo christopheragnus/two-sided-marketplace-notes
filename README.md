@@ -2,6 +2,10 @@
 
 This is a living document. Please add to it, change it, update it. Add useful resources, notes, and links as you find them.
 
+To edit, go to [https://github.com/biancapower/two-sided-marketplace-notes/blob/master/README.md](https://github.com/biancapower/two-sided-marketplace-notes/blob/master/README.md), click on the pencil icon, and make your changes. Scroll to the bottom of the page and click "Propose file change". You will then be able to submit a pull request with your proposed changes.
+
+---
+
 ## Planning
 
 Planning should be done in roughly the order of the below sections.
