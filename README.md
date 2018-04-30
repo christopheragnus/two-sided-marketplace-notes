@@ -33,6 +33,10 @@ The README.md file should contain all of your documentation. This should include
 
 The readme is written in markdown format. Here's a link on how to do everything you'll need to in markdown: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
 
+**Resources:**
+* [Create TOC for README.md](https://github.com/ekalinin/github-markdown-toc)
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
+
 ### Version Control
 
 Git & GitHub. Set them up as soon as you have created your app.
