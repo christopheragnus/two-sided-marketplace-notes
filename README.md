@@ -28,6 +28,7 @@ The README.md file should contain all of your documentation. This should include
 * ERD
 * Link to deployed website
 * Notes on future development / project improvements
+*
 
 ***Always*** insert actual images rather than giving just links, because links can go wrong, images are there forever (it's version control!).
 
